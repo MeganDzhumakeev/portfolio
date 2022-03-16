@@ -1,45 +1,30 @@
 {
   "main": {
-    "name": "Sonny Sangha",
-    "occupation": "CEO of PAPA",
+    "name": "Megan Dzhumakeev",
+    "occupation": "Full Stack Developer & Graphic Designer",
     "description": "I eat, sleep and breathe React",
     "image": "profilepic.jpg",
-    "bio": "Hi there! I am Sonny! You might also know me as PAPA React. I've been coding for over 10 years now. As a Full Stack developer I've worked both with startups and large corporations to help build & scale their companies. Along the journey I realised my passion existed in helping others excel and pursue their dreams as upcoming developers. With this passion, I have now trained thousand's of developers across the globe. Through live coaching sessions on Youtube, I have accumulated several MILLION views demonstrating how to apply developer skills in a range of cool builds and challenges. I deliver REAL VALUE by teaching REAL WORLD projects to help students enter the world of web development. You’ll get hands-on experience and learn the skills that are required to succeed in the real-world in this community.",
-    "contactmessage": "Get in touch with me to be a part of the PAPA fam!",
-    "email": "papareact.team@gmail.com",
-    "phone": "+44 1234567899",
+    "bio": "Hello World! My name is Megan Dzhumakeev, pronounced Jew-MA-Cave. I’m a full stack developer with a focus on the MERN stack language. With my background in graphic design and working in the marketing and advertising field for over 5 years. I bring an insight of eye catching designs and visually appealing applications to solve solutions through art and technology.",
+    "contactmessage": "Let's Keep in Touch",
+    "email": "megandzhumakeev@gmail.com",
+    "phone": "361.739.4875",
     "address": {
-      "street": "123 Dev Lane",
-      "city": "London",
-      "state": "Devosphere",
-      "zip": "W3B D3V"
+      "street": "XXX",
+      "city": "Tampa",
+      "state": "Florida",
+      "zip": "XXX"
     },
-    "website": "https://www.papareact.com/course",
-    "resumedownload": "http://papareact.com",
+    "website": "XXX",
+    "resumedownload": "https://docs.google.com/document/d/18Rh6iEzhXgJcUe8UVj1TS4Jrg4qv8AEUnBD6Kngn0-A/edit?usp=sharing",
     "social": [
       {
-        "name": "youtube",
-        "url": "https://www.youtube.com/channel/UCqeTj_QAnNlmt7FwzNwHZnA",
-        "className": "fa fa-youtube"
-      },
-      {
-        "name": "facebook",
-        "url": "https://www.facebook.com/sonny.sangha.3",
-        "className": "fa fa-facebook"
-      },
-      {
         "name": "linkedin",
-        "url": "https://www.linkedin.com/in/saajansangha",
+        "url": "https://www.linkedin.com/in/megandzhumakeev/",
         "className": "fa fa-linkedin"
       },
       {
-        "name": "instagram",
-        "url": "https://www.instagram.com/ssssangha/",
-        "className": "fa fa-instagram"
-      },
-      {
         "name": "github",
-        "url": "https://github.com/PapaReact",
+        "url": "https://github.com/MeganDzhumakeev",
         "className": "fa fa-github"
       }
     ]
@@ -48,10 +33,22 @@
     "skillmessage": "My Programming Language Proficiency",
     "education": [
       {
-        "school": "University of Kent - UK",
-        "degree": "Bachelor's Degree, Computer Science",
-        "graduated": "July 2016",
-        "description": "Graduated with First Class Honours"
+        "school": "Coding Dojo",
+        "degree": "Certificate, Software Development",
+        "graduated": "March 2022",
+        "description": "Learning and developing knowledge in full stack programming language. Designing and executing code to the front and back end of a program and request calls from API servers."
+      },
+      {
+        "school": "Texas A&M University - Corpus Christi",
+        "degree": "Bachelor of Arts, Graphic Design",
+        "graduated": "May 2017",
+        "description": "Graduated Magna Cum Laude"
+      },
+      {
+        "school": "Del Mar College",
+        "degree": "Associate's Degree, Digital Media",
+        "graduated": "December 2011",
+        "description": "A great stepping stone to find my passions in life"
       }
     ],
     "work": [
