@@ -26,7 +26,6 @@ const About = ({ data }) => {
         </div>
         <div className="nine columns main-col">
           <h2>About Me</h2>
-
           <p>{bio}</p>
           <div className="row">
             <div className="columns contact-details">
@@ -35,9 +34,8 @@ const About = ({ data }) => {
                 <span>{name}</span>
                 <br />
                 <span>
-                  {street}
-                  <br />
-                  {city} {state}, {zip}
+                  {/*{street}*/}
+                  {city} {state}, {/*{zip}*/}
                 </span>
                 <br />
                 <span>{phone}</span>
@@ -60,3 +58,9 @@ const About = ({ data }) => {
 };
 
 export default About;
+
+
+
+
+
+
