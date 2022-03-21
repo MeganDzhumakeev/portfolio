@@ -1,4 +1,8 @@
 import React from "react";
+import {useState} from "react";
+import Popup from "./Popup";
+//import lagunaCard from ""
+
 
 const Portfolio = ({ data }) => {
   if (data) {
@@ -25,6 +29,9 @@ const Portfolio = ({ data }) => {
     });
   }
 
+  ///////Testing PopUp button///////
+const [buttonPopup, setButtonPopup] = useState(false);
+
   return (
     <section id="portfolio">
       <div className="row">
@@ -36,6 +43,15 @@ const Portfolio = ({ data }) => {
             className="bgrid-quarters s-bgrid-thirds cf"
           >
             {projects}
+{/*/////Testing////////////////////////////*/}
+<button onClick={() => setButtonPopup(true)}>Laguna Reef Project - Test</button>
+
+<Popup trigger={buttonPopup} setTrigger={setButtonPopup} >
+  <h3>My Laguna Reef PopUp</h3>
+  <p>Here is some text explaining the project</p>
+</Popup>
+
+
           </div>
         </div>
       </div>
